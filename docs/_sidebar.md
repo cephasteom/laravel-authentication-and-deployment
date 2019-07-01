@@ -1,1 +1,6 @@
+* [Preliminaries](preliminaries.md)
 * [Day 01](01.md)
+* [Day 02](02.md)
+* [Day 03](03.md)
+* [Day 04](04.md)
+* [Day 05](05.md)
